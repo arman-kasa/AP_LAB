@@ -7,8 +7,8 @@ public class Main
     //p2
     public static void main(String[] args)
     {
-        //main1();
-        main2();
+        main1();
+        //main2();
     }
 
     static void main1()

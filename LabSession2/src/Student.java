@@ -1,4 +1,4 @@
-﻿public class Student
+public class Student
 {
     // the student’s first name
     private String firstName;

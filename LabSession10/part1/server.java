@@ -1,6 +1,3 @@
-package com.company;
-
-// A Java program for a Server
 import java.net.*;
 import java.io.*;
 
@@ -59,6 +56,6 @@ public class server
 
     public static void main(String args[])
     {
-        server server = new server(5000);
+        server server = new server(4000);
     }
 }

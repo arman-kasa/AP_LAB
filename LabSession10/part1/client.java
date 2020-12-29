@@ -1,5 +1,3 @@
-package com.company;
-// A Java program for a Client
 import java.net.*;
 import java.io.*;
 
@@ -66,6 +64,6 @@ public class client
 
     public static void main(String args[])
     {
-        client client = new client("127.0.0.1", 5000);
+        client client = new client("127.0.0.1", 4000);
     }
 }
